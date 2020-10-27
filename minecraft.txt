@@ -1,0 +1,10 @@
+#Minecraft access URL's
+0.0.0.0 bedwarspractice.club
+0.0.0.0 na.minemen.club
+0.0.0.0 sessionserver.mojang.com
+0.0.0.0 hypixelcache.lunarclient.com
+0.0.0.0 hypixel-api.inventivetalent.org
+0.0.0.0 hypixel.net
+0.0.0.0 hypixelcache.lunarclientinfra.com
+0.0.0.0 assetserver.lunarclientinfra.com
+0.0.0.0 textures.minecraft.net
